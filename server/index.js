@@ -11,7 +11,6 @@ app.use(express.json())
 app.use(require("./login.js"))
 app.use(require("./cartpro.js"))
 app.use(require("./prodetails.js"))
-app.use(require("./default.js"))
 
 
 
